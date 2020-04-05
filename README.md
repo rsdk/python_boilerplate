@@ -1,4 +1,5 @@
 # A Python Boilerplate Example Project
+With logging, tests and documentation.
 
 * [Website "makeareadme"](https://www.makeareadme.com/).
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
