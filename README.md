@@ -8,8 +8,12 @@
 ## Usage
 
 ## Documentation
+[Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
+
+
 Create with _make html_ in directory _docs_.
 
 ## Tests with pytest
 
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

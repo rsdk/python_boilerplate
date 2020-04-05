@@ -10,7 +10,7 @@ Welcome to python_boilerplate's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+.. autofunction:: boilerplate.download.dl_covid_stats
 
 Indices and tables
 ==================
