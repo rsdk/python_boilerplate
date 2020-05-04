@@ -11,8 +11,6 @@ logger = logging.getLogger(__name__)
 def dl_covid_stats():
     """
     Download daily csv with covid statistics if not downladed today.
-
-    :return:
     """
     dt_str = datetime.date.today().isoformat()
     filename = f'stats_{dt_str}.csv'
